@@ -1,0 +1,9 @@
+.dropdown-menu {
+    font-size: large;
+    width: 250px;
+    margin-left: 10%;
+}
+
+.dropdown-item {
+    margin-left: 5%;
+}
